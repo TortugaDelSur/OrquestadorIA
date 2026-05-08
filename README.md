@@ -17,7 +17,7 @@ Este proyecto es un Orquestador de Inteligencia Artificial diseñado para PyMEs.
 - Matplotlib & Pandas (Data Science)
 
 ## 🚀 Instalación Rápida
-1. Clonar: `git clone <tu-url-de-repo>`
+1. Clonar: `git clone https://github.com/TortugaDelSur/OrquestadorIA`
 2. Instalar: `pip install -r requirements.txt`
 3. Configurar `.env`: Agrega tu `OPENAI_API_KEY`.
 4. Run: `python -m uvicorn app.main:app --reload`
